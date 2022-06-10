@@ -1,0 +1,6 @@
+i am testing using git on the cli
+i am writing this using arch (btw)
+the only thing is that i am using wsl for that...
+but who cares tbh.
+
+now i am going to write another file "index.ts"
